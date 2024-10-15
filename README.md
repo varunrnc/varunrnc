@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
 <!--
 **varunrnc/varunrnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
